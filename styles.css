@@ -1,0 +1,27 @@
+/* General styling */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar dropdown styling for mobile */
+.navbar-collapse {
+    background-color: #a1a1a1;
+}
+
+/* Background color for the tall section */
+.tall-section {
+    align-items: center;
+    text-align: left;
+    height: 1000px; /* Set a tall height to enable scrolling */
+    background-color: #a1a1a1; /* Distinct background color */
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+.marg{
+margin: 30px;
+}
